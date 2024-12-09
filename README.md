@@ -1,4 +1,4 @@
-# SkillHarvest Data Inventory
+# SkillHarvest Github Class
 
 ## PROJECT OUTLINE
 ## [Project Overview](#project-overview)
