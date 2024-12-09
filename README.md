@@ -6,7 +6,7 @@
 ## [Tools Used](#tools-used)
 ## [Data Cleaning and Preparation](#data-cleaning-and-preparation)
 ## [Eploratory Data Analysis](#exploratory-data-analysis)
-
+## [Data Analysis](#data-analysis)
 
 ### Project Overview
 
@@ -40,6 +40,8 @@ EDA involved the exploring of the Data to answer some questions about the Data s
   2. Which products are top sellers
   3. What are the products on peak sales?
 
+### Data Analysis
+This is where we include some basic lines of code or queries or even some of the DAX expressions used during your analysis
 
 ``` SQL
 SELECT * FROM TABLE 1
